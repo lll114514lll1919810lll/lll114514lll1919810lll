@@ -40,5 +40,6 @@ int main(){
 - 3 好神圣
 
 ## 一些链接
+- [Blog](https://blog.mclll114.me/) - 我的个人博客
 - [MCAI](https://github.com/lll114514lll1919810lll/mcai_mod) - 我最得意的 vibe coding 成果
 - [crypt-lite](https://github.com/Intelvor/encrypt) - 我第二得意的 vibe coding 成果
